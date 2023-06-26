@@ -1,0 +1,8 @@
+name: AutoPickupMT
+version: '${project.version}'
+main: magtav.autopickupmt.AutoPickupMT
+api-version: 1.16
+permissions:
+  autopickup.pickup:
+    default: op
+    description: null
